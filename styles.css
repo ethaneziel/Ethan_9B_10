@@ -1,11 +1,11 @@
 body{
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7M52D1S438yv79UGcilae30lAmI5ELLkDFw&s");
     margin: 0px;
 }
 header{
     display: flex;
     justify-content: space-between;
     background-color:rgba(0, 0, 0, 0.863) ;
-    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7M52D1S438yv79UGcilae30lAmI5ELLkDFw&s");
     width: 100%;
 }
     
