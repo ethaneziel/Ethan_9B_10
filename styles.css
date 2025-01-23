@@ -2,7 +2,7 @@ body{
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7M52D1S438yv79UGcilae30lAmI5ELLkDFw&s");
     background-size: cover;
     background-position: center;
-    margin: 0px;
+    margin: 0;
 }
 header{
     display: flex;
